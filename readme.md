@@ -3,4 +3,4 @@
 Personal portfolio of completed projects
 
 ## Wiev
-![image](/uploads/e373131c73acf30043df8f676734cc9c/image.png)
+![image](https://user-images.githubusercontent.com/58452664/98641314-8fd16d00-22f9-11eb-8a6c-722c109f4c42.png)
